@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksoftware_architecture=self.webpackChunksoftware_architecture||[]).push([[6679],{6749:e=>{e.exports=JSON.parse('{"label":"facebook","permalink":"/Software-Architecture/blog/tags/facebook","allTagsPath":"/Software-Architecture/blog/tags","count":1,"unlisted":false}')}}]);
