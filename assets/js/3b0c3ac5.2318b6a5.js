@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunksoftware_architecture=self.webpackChunksoftware_architecture||[]).push([[727],{2868:e=>{e.exports=JSON.parse('{"label":"docusaurus","permalink":"/Software-Architecture/blog/tags/docusaurus","allTagsPath":"/Software-Architecture/blog/tags","count":4,"unlisted":false}')}}]);
