@@ -1,0 +1,222 @@
+{
+  "/Software-Architecture/-0c2": {
+    "__comp": "c4f5d8e4",
+    "__context": {
+      "plugin": "ad3957ee"
+    },
+    "config": "5e9f5e1a"
+  },
+  "/Software-Architecture/blog-d13": {
+    "__comp": "a6aa9e1f",
+    "__context": {
+      "plugin": "ed7019a3"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7661071f"
+      },
+      {
+        "content": "f4f34a3a"
+      },
+      {
+        "content": "8717b14a"
+      },
+      {
+        "content": "925b3f96"
+      }
+    ],
+    "metadata": "7591b9d0"
+  },
+  "/Software-Architecture/blog/archive-290": {
+    "__comp": "9e4087bc",
+    "__context": {
+      "plugin": "ed7019a3"
+    },
+    "archive": "3adbb38e"
+  },
+  "/Software-Architecture/blog/first-blog-post-9a5": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "ed7019a3"
+    },
+    "sidebar": "814f3328",
+    "content": "e273c56f"
+  },
+  "/Software-Architecture/blog/long-blog-post-989": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "ed7019a3"
+    },
+    "sidebar": "814f3328",
+    "content": "73664a40"
+  },
+  "/Software-Architecture/blog/mdx-blog-post-191": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "ed7019a3"
+    },
+    "sidebar": "814f3328",
+    "content": "59362658"
+  },
+  "/Software-Architecture/blog/tags-f1b": {
+    "__comp": "01a85c17",
+    "__context": {
+      "plugin": "ed7019a3"
+    },
+    "sidebar": "814f3328",
+    "tags": "ff62dbb9"
+  },
+  "/Software-Architecture/blog/tags/docusaurus-2ad": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "ed7019a3"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7661071f"
+      },
+      {
+        "content": "f4f34a3a"
+      },
+      {
+        "content": "8717b14a"
+      },
+      {
+        "content": "925b3f96"
+      }
+    ],
+    "tag": "3b0c3ac5",
+    "listMetadata": "b37f0efd"
+  },
+  "/Software-Architecture/blog/tags/facebook-f81": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "ed7019a3"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7661071f"
+      }
+    ],
+    "tag": "c8b97681",
+    "listMetadata": "c85a3b18"
+  },
+  "/Software-Architecture/blog/tags/hello-ffd": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "ed7019a3"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7661071f"
+      },
+      {
+        "content": "8717b14a"
+      }
+    ],
+    "tag": "f712632d",
+    "listMetadata": "9cbeb116"
+  },
+  "/Software-Architecture/blog/tags/hola-4a7": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "ed7019a3"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "925b3f96"
+      }
+    ],
+    "tag": "8200aa58",
+    "listMetadata": "aceff7b9"
+  },
+  "/Software-Architecture/blog/welcome-e8c": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "ed7019a3"
+    },
+    "sidebar": "814f3328",
+    "content": "d9f32620"
+  },
+  "/Software-Architecture/markdown-page-90e": {
+    "__comp": "1f391b9e",
+    "__context": {
+      "plugin": "ad3957ee"
+    },
+    "content": "393be207"
+  },
+  "/Software-Architecture/docs-488": {
+    "__comp": "5e95c892",
+    "__context": {
+      "plugin": "78b96239"
+    }
+  },
+  "/Software-Architecture/docs-f18": {
+    "__comp": "a7bd4aaa",
+    "version": "935f2afb"
+  },
+  "/Software-Architecture/docs-a96": {
+    "__comp": "a94703ab"
+  },
+  "/Software-Architecture/docs/category/tutorial---basics-bdd": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "87762322"
+  },
+  "/Software-Architecture/docs/category/tutorial---extras-eb4": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "84e30016"
+  },
+  "/Software-Architecture/docs/intro-3b8": {
+    "__comp": "17896441",
+    "content": "0e384e19"
+  },
+  "/Software-Architecture/docs/tutorial-basics/congratulations-7ca": {
+    "__comp": "17896441",
+    "content": "822bd8ab"
+  },
+  "/Software-Architecture/docs/tutorial-basics/create-a-blog-post-bb7": {
+    "__comp": "17896441",
+    "content": "533a09ca"
+  },
+  "/Software-Architecture/docs/tutorial-basics/create-a-document-3d8": {
+    "__comp": "17896441",
+    "content": "1e4232ab"
+  },
+  "/Software-Architecture/docs/tutorial-basics/create-a-page-c2b": {
+    "__comp": "17896441",
+    "content": "5c868d36"
+  },
+  "/Software-Architecture/docs/tutorial-basics/deploy-your-site-c07": {
+    "__comp": "17896441",
+    "content": "f55d3e7a"
+  },
+  "/Software-Architecture/docs/tutorial-basics/markdown-features-319": {
+    "__comp": "17896441",
+    "content": "18c41134"
+  },
+  "/Software-Architecture/docs/tutorial-extras/manage-docs-versions-dfd": {
+    "__comp": "17896441",
+    "content": "dff1c289"
+  },
+  "/Software-Architecture/docs/tutorial-extras/translate-your-site-24d": {
+    "__comp": "17896441",
+    "content": "e44a2883"
+  }
+}

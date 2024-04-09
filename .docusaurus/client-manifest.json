@@ -1,0 +1,715 @@
+{
+  "entrypoints": [
+    "main"
+  ],
+  "origins": {
+    "2237": [
+      2237
+    ],
+    "3242": [
+      1869,
+      3249,
+      4813,
+      5533,
+      7643,
+      3242
+    ],
+    "5533": [
+      1869,
+      3242,
+      3249,
+      4813,
+      6061,
+      7643,
+      8401,
+      5533
+    ],
+    "17896441": [
+      1869,
+      5533,
+      8401
+    ],
+    "59362658": [
+      9325
+    ],
+    "87762322": [
+      7806
+    ],
+    "main": [
+      1869,
+      5354,
+      8792
+    ],
+    "runtime~main": [
+      1869,
+      8792,
+      5354
+    ],
+    "01a85c17": [
+      1869,
+      8209
+    ],
+    "0e384e19": [
+      3976
+    ],
+    "14eb3368": [
+      1869,
+      6969
+    ],
+    "18c41134": [
+      9262
+    ],
+    "1e4232ab": [
+      1953
+    ],
+    "1f391b9e": [
+      1869,
+      5533,
+      6061
+    ],
+    "393be207": [
+      4134
+    ],
+    "3adbb38e": [
+      4977
+    ],
+    "3b0c3ac5": [
+      727
+    ],
+    "533a09ca": [
+      3098
+    ],
+    "5c868d36": [
+      1974
+    ],
+    "5e95c892": [
+      9647
+    ],
+    "6875c492": [
+      1869,
+      3242,
+      5533,
+      4813
+    ],
+    "73664a40": [
+      1972
+    ],
+    "7591b9d0": [
+      8830
+    ],
+    "7661071f": [
+      8737
+    ],
+    "78b96239": [
+      8813
+    ],
+    "814f3328": [
+      7472
+    ],
+    "8200aa58": [
+      8700
+    ],
+    "822bd8ab": [
+      2748
+    ],
+    "84e30016": [
+      2770
+    ],
+    "8717b14a": [
+      3694
+    ],
+    "925b3f96": [
+      8609
+    ],
+    "935f2afb": [
+      8581
+    ],
+    "9cbeb116": [
+      1978
+    ],
+    "9e4087bc": [
+      2711
+    ],
+    "a6aa9e1f": [
+      1869,
+      3242,
+      5533,
+      7643
+    ],
+    "a7bd4aaa": [
+      7098
+    ],
+    "a94703ab": [
+      1869,
+      9048
+    ],
+    "acecf23e": [
+      1903
+    ],
+    "aceff7b9": [
+      7144
+    ],
+    "ad3957ee": [
+      3034
+    ],
+    "b37f0efd": [
+      3050
+    ],
+    "c4f5d8e4": [
+      1869,
+      2634
+    ],
+    "c85a3b18": [
+      1560
+    ],
+    "c8b97681": [
+      6679
+    ],
+    "ccc49370": [
+      1869,
+      3242,
+      5533,
+      3249
+    ],
+    "d9f32620": [
+      5557
+    ],
+    "dff1c289": [
+      1724
+    ],
+    "e273c56f": [
+      9328
+    ],
+    "e44a2883": [
+      4736
+    ],
+    "ed7019a3": [
+      2591
+    ],
+    "f4f34a3a": [
+      3637
+    ],
+    "f55d3e7a": [
+      8863
+    ],
+    "f712632d": [
+      5596
+    ],
+    "ff62dbb9": [
+      2910
+    ],
+    "styles": [
+      2634,
+      3242,
+      3249,
+      4813,
+      5354,
+      5533,
+      6061,
+      6969,
+      7643,
+      8209,
+      8401,
+      8792,
+      9048,
+      1869
+    ]
+  },
+  "assets": {
+    "727": {
+      "js": [
+        {
+          "file": "assets/js/3b0c3ac5.2318b6a5.js",
+          "hash": "2634f04b693cdf9c",
+          "publicPath": "/Software-Architecture/assets/js/3b0c3ac5.2318b6a5.js"
+        }
+      ]
+    },
+    "1560": {
+      "js": [
+        {
+          "file": "assets/js/c85a3b18.436ea054.js",
+          "hash": "6a6dfbf1af56fd0d",
+          "publicPath": "/Software-Architecture/assets/js/c85a3b18.436ea054.js"
+        }
+      ]
+    },
+    "1724": {
+      "js": [
+        {
+          "file": "assets/js/dff1c289.8de59525.js",
+          "hash": "df3624a175b979ef",
+          "publicPath": "/Software-Architecture/assets/js/dff1c289.8de59525.js"
+        }
+      ]
+    },
+    "1869": {
+      "css": [
+        {
+          "file": "assets/css/styles.b2ebf54e.css",
+          "hash": "e2f4407746c0bd00",
+          "publicPath": "/Software-Architecture/assets/css/styles.b2ebf54e.css"
+        }
+      ]
+    },
+    "1903": {
+      "js": [
+        {
+          "file": "assets/js/acecf23e.718f9756.js",
+          "hash": "70d7ee37a1d5b1d8",
+          "publicPath": "/Software-Architecture/assets/js/acecf23e.718f9756.js"
+        }
+      ]
+    },
+    "1953": {
+      "js": [
+        {
+          "file": "assets/js/1e4232ab.7972675c.js",
+          "hash": "4c2429a3be3052ab",
+          "publicPath": "/Software-Architecture/assets/js/1e4232ab.7972675c.js"
+        }
+      ]
+    },
+    "1972": {
+      "js": [
+        {
+          "file": "assets/js/73664a40.1d78fbb0.js",
+          "hash": "75601fd11fddf9ae",
+          "publicPath": "/Software-Architecture/assets/js/73664a40.1d78fbb0.js"
+        }
+      ]
+    },
+    "1974": {
+      "js": [
+        {
+          "file": "assets/js/5c868d36.d83fc953.js",
+          "hash": "048e11e65e873ada",
+          "publicPath": "/Software-Architecture/assets/js/5c868d36.d83fc953.js"
+        }
+      ]
+    },
+    "1978": {
+      "js": [
+        {
+          "file": "assets/js/9cbeb116.d08ededd.js",
+          "hash": "33c47445cade0070",
+          "publicPath": "/Software-Architecture/assets/js/9cbeb116.d08ededd.js"
+        }
+      ]
+    },
+    "2237": {
+      "js": [
+        {
+          "file": "assets/js/2237.f064b27d.js",
+          "hash": "3366377c77b19adb",
+          "publicPath": "/Software-Architecture/assets/js/2237.f064b27d.js"
+        }
+      ]
+    },
+    "2591": {
+      "js": [
+        {
+          "file": "assets/js/ed7019a3.dea8624a.js",
+          "hash": "01010d597644664d",
+          "publicPath": "/Software-Architecture/assets/js/ed7019a3.dea8624a.js"
+        }
+      ]
+    },
+    "2634": {
+      "js": [
+        {
+          "file": "assets/js/c4f5d8e4.7ce31ade.js",
+          "hash": "77c00e925d86043f",
+          "publicPath": "/Software-Architecture/assets/js/c4f5d8e4.7ce31ade.js"
+        }
+      ]
+    },
+    "2711": {
+      "js": [
+        {
+          "file": "assets/js/9e4087bc.952707d7.js",
+          "hash": "d65708ace8effc86",
+          "publicPath": "/Software-Architecture/assets/js/9e4087bc.952707d7.js"
+        }
+      ]
+    },
+    "2748": {
+      "js": [
+        {
+          "file": "assets/js/822bd8ab.97ce92c0.js",
+          "hash": "1c5edb8fbb18deb7",
+          "publicPath": "/Software-Architecture/assets/js/822bd8ab.97ce92c0.js"
+        }
+      ]
+    },
+    "2770": {
+      "js": [
+        {
+          "file": "assets/js/84e30016.c17686f5.js",
+          "hash": "5be1550bb286aa10",
+          "publicPath": "/Software-Architecture/assets/js/84e30016.c17686f5.js"
+        }
+      ]
+    },
+    "2910": {
+      "js": [
+        {
+          "file": "assets/js/ff62dbb9.ab76548e.js",
+          "hash": "4213553fe6e3a08a",
+          "publicPath": "/Software-Architecture/assets/js/ff62dbb9.ab76548e.js"
+        }
+      ]
+    },
+    "3034": {
+      "js": [
+        {
+          "file": "assets/js/ad3957ee.f3f168e2.js",
+          "hash": "2580ada907c7ff4e",
+          "publicPath": "/Software-Architecture/assets/js/ad3957ee.f3f168e2.js"
+        }
+      ]
+    },
+    "3050": {
+      "js": [
+        {
+          "file": "assets/js/b37f0efd.93a07875.js",
+          "hash": "279cca2b9b7e0322",
+          "publicPath": "/Software-Architecture/assets/js/b37f0efd.93a07875.js"
+        }
+      ]
+    },
+    "3098": {
+      "js": [
+        {
+          "file": "assets/js/533a09ca.22982e0c.js",
+          "hash": "1c8dacf5c1e8cac9",
+          "publicPath": "/Software-Architecture/assets/js/533a09ca.22982e0c.js"
+        }
+      ]
+    },
+    "3242": {
+      "js": [
+        {
+          "file": "assets/js/3242.0c3217e2.js",
+          "hash": "648af7f0e759cb1b",
+          "publicPath": "/Software-Architecture/assets/js/3242.0c3217e2.js"
+        }
+      ]
+    },
+    "3249": {
+      "js": [
+        {
+          "file": "assets/js/ccc49370.aed0468e.js",
+          "hash": "c8ba9e6e10d02aca",
+          "publicPath": "/Software-Architecture/assets/js/ccc49370.aed0468e.js"
+        }
+      ]
+    },
+    "3637": {
+      "js": [
+        {
+          "file": "assets/js/f4f34a3a.7a2b5651.js",
+          "hash": "b6f268872a015948",
+          "publicPath": "/Software-Architecture/assets/js/f4f34a3a.7a2b5651.js"
+        }
+      ]
+    },
+    "3694": {
+      "js": [
+        {
+          "file": "assets/js/8717b14a.dbca249b.js",
+          "hash": "a2142dce54ba3400",
+          "publicPath": "/Software-Architecture/assets/js/8717b14a.dbca249b.js"
+        }
+      ]
+    },
+    "3976": {
+      "js": [
+        {
+          "file": "assets/js/0e384e19.ee8a1d54.js",
+          "hash": "d2c3dc5ecaaf8e6d",
+          "publicPath": "/Software-Architecture/assets/js/0e384e19.ee8a1d54.js"
+        }
+      ]
+    },
+    "4134": {
+      "js": [
+        {
+          "file": "assets/js/393be207.d1b3fe63.js",
+          "hash": "80d54601d17277fb",
+          "publicPath": "/Software-Architecture/assets/js/393be207.d1b3fe63.js"
+        }
+      ]
+    },
+    "4736": {
+      "js": [
+        {
+          "file": "assets/js/e44a2883.e7565348.js",
+          "hash": "08c37b08aa6b80b2",
+          "publicPath": "/Software-Architecture/assets/js/e44a2883.e7565348.js"
+        }
+      ]
+    },
+    "4813": {
+      "js": [
+        {
+          "file": "assets/js/6875c492.5b0c4a7c.js",
+          "hash": "b1670726731e51d8",
+          "publicPath": "/Software-Architecture/assets/js/6875c492.5b0c4a7c.js"
+        }
+      ]
+    },
+    "4977": {
+      "js": [
+        {
+          "file": "assets/js/3adbb38e.f16defc1.js",
+          "hash": "c025caf6c0b2724a",
+          "publicPath": "/Software-Architecture/assets/js/3adbb38e.f16defc1.js"
+        }
+      ]
+    },
+    "5354": {
+      "js": [
+        {
+          "file": "assets/js/runtime~main.2a9dfe68.js",
+          "hash": "a3d5c9426993f863",
+          "publicPath": "/Software-Architecture/assets/js/runtime~main.2a9dfe68.js"
+        }
+      ]
+    },
+    "5533": {
+      "js": [
+        {
+          "file": "assets/js/5533.8acd9a13.js",
+          "hash": "ec6b95b07f9ebe2c",
+          "publicPath": "/Software-Architecture/assets/js/5533.8acd9a13.js"
+        }
+      ]
+    },
+    "5557": {
+      "js": [
+        {
+          "file": "assets/js/d9f32620.ed406db2.js",
+          "hash": "43ba62360ffa0332",
+          "publicPath": "/Software-Architecture/assets/js/d9f32620.ed406db2.js"
+        }
+      ]
+    },
+    "5596": {
+      "js": [
+        {
+          "file": "assets/js/f712632d.ff62c1ce.js",
+          "hash": "d621c55ce0ef33bc",
+          "publicPath": "/Software-Architecture/assets/js/f712632d.ff62c1ce.js"
+        }
+      ]
+    },
+    "6061": {
+      "js": [
+        {
+          "file": "assets/js/1f391b9e.3e202af2.js",
+          "hash": "84b2a72445b74c67",
+          "publicPath": "/Software-Architecture/assets/js/1f391b9e.3e202af2.js"
+        }
+      ]
+    },
+    "6679": {
+      "js": [
+        {
+          "file": "assets/js/c8b97681.3f8c87ad.js",
+          "hash": "77f4377655d0255d",
+          "publicPath": "/Software-Architecture/assets/js/c8b97681.3f8c87ad.js"
+        }
+      ]
+    },
+    "6969": {
+      "js": [
+        {
+          "file": "assets/js/14eb3368.82798c06.js",
+          "hash": "a60afdbbae161797",
+          "publicPath": "/Software-Architecture/assets/js/14eb3368.82798c06.js"
+        }
+      ]
+    },
+    "7098": {
+      "js": [
+        {
+          "file": "assets/js/a7bd4aaa.247c4763.js",
+          "hash": "f6f299b731760081",
+          "publicPath": "/Software-Architecture/assets/js/a7bd4aaa.247c4763.js"
+        }
+      ]
+    },
+    "7144": {
+      "js": [
+        {
+          "file": "assets/js/aceff7b9.1f135add.js",
+          "hash": "299f0671bb064ac7",
+          "publicPath": "/Software-Architecture/assets/js/aceff7b9.1f135add.js"
+        }
+      ]
+    },
+    "7472": {
+      "js": [
+        {
+          "file": "assets/js/814f3328.79f670ab.js",
+          "hash": "5c2cbb57c234b89b",
+          "publicPath": "/Software-Architecture/assets/js/814f3328.79f670ab.js"
+        }
+      ]
+    },
+    "7643": {
+      "js": [
+        {
+          "file": "assets/js/a6aa9e1f.4468d8c1.js",
+          "hash": "5d0f5f0306b6728d",
+          "publicPath": "/Software-Architecture/assets/js/a6aa9e1f.4468d8c1.js"
+        }
+      ]
+    },
+    "7806": {
+      "js": [
+        {
+          "file": "assets/js/87762322.53ede038.js",
+          "hash": "62faa1c2da193f57",
+          "publicPath": "/Software-Architecture/assets/js/87762322.53ede038.js"
+        }
+      ]
+    },
+    "8209": {
+      "js": [
+        {
+          "file": "assets/js/01a85c17.d8ccee72.js",
+          "hash": "927629bbbc2f4828",
+          "publicPath": "/Software-Architecture/assets/js/01a85c17.d8ccee72.js"
+        }
+      ]
+    },
+    "8401": {
+      "js": [
+        {
+          "file": "assets/js/17896441.c7ecb163.js",
+          "hash": "82b0654d63a31295",
+          "publicPath": "/Software-Architecture/assets/js/17896441.c7ecb163.js"
+        }
+      ]
+    },
+    "8581": {
+      "js": [
+        {
+          "file": "assets/js/935f2afb.baa3f0f1.js",
+          "hash": "e469d807356287d3",
+          "publicPath": "/Software-Architecture/assets/js/935f2afb.baa3f0f1.js"
+        }
+      ]
+    },
+    "8609": {
+      "js": [
+        {
+          "file": "assets/js/925b3f96.da47d737.js",
+          "hash": "3b2b874cd5cba37b",
+          "publicPath": "/Software-Architecture/assets/js/925b3f96.da47d737.js"
+        }
+      ]
+    },
+    "8700": {
+      "js": [
+        {
+          "file": "assets/js/8200aa58.3ba8d19b.js",
+          "hash": "38fd3aaa007b3fab",
+          "publicPath": "/Software-Architecture/assets/js/8200aa58.3ba8d19b.js"
+        }
+      ]
+    },
+    "8737": {
+      "js": [
+        {
+          "file": "assets/js/7661071f.8588d3e4.js",
+          "hash": "e4f8651b72c47c34",
+          "publicPath": "/Software-Architecture/assets/js/7661071f.8588d3e4.js"
+        }
+      ]
+    },
+    "8792": {
+      "js": [
+        {
+          "file": "assets/js/main.7e0094ea.js",
+          "hash": "f325550214a2334f",
+          "publicPath": "/Software-Architecture/assets/js/main.7e0094ea.js"
+        }
+      ]
+    },
+    "8813": {
+      "js": [
+        {
+          "file": "assets/js/78b96239.b9959809.js",
+          "hash": "593ba221129c54f6",
+          "publicPath": "/Software-Architecture/assets/js/78b96239.b9959809.js"
+        }
+      ]
+    },
+    "8830": {
+      "js": [
+        {
+          "file": "assets/js/7591b9d0.b90cef56.js",
+          "hash": "2b90bb72421e12b7",
+          "publicPath": "/Software-Architecture/assets/js/7591b9d0.b90cef56.js"
+        }
+      ]
+    },
+    "8863": {
+      "js": [
+        {
+          "file": "assets/js/f55d3e7a.8e80b1ad.js",
+          "hash": "bc46407fe7c9ddd1",
+          "publicPath": "/Software-Architecture/assets/js/f55d3e7a.8e80b1ad.js"
+        }
+      ]
+    },
+    "9048": {
+      "js": [
+        {
+          "file": "assets/js/a94703ab.05212f5f.js",
+          "hash": "eb7ab55a7f4ada84",
+          "publicPath": "/Software-Architecture/assets/js/a94703ab.05212f5f.js"
+        }
+      ]
+    },
+    "9262": {
+      "js": [
+        {
+          "file": "assets/js/18c41134.ab27e97e.js",
+          "hash": "58443b6ea215cafa",
+          "publicPath": "/Software-Architecture/assets/js/18c41134.ab27e97e.js"
+        }
+      ]
+    },
+    "9325": {
+      "js": [
+        {
+          "file": "assets/js/59362658.26b7c557.js",
+          "hash": "3b830cbf5ff532f3",
+          "publicPath": "/Software-Architecture/assets/js/59362658.26b7c557.js"
+        }
+      ]
+    },
+    "9328": {
+      "js": [
+        {
+          "file": "assets/js/e273c56f.e1874b77.js",
+          "hash": "d3a798e0dbdb27f7",
+          "publicPath": "/Software-Architecture/assets/js/e273c56f.e1874b77.js"
+        }
+      ]
+    },
+    "9647": {
+      "js": [
+        {
+          "file": "assets/js/5e95c892.5717b079.js",
+          "hash": "646bc8b0f7d38af1",
+          "publicPath": "/Software-Architecture/assets/js/5e95c892.5717b079.js"
+        }
+      ]
+    }
+  }
+}
