@@ -8,58 +8,38 @@ export default [
     exact: true
   },
   {
-    path: '/Software-Architecture/blog',
-    component: ComponentCreator('/Software-Architecture/blog', 'd13'),
+    path: '/Software-Architecture/__docusaurus/debug',
+    component: ComponentCreator('/Software-Architecture/__docusaurus/debug', '730'),
     exact: true
   },
   {
-    path: '/Software-Architecture/blog/archive',
-    component: ComponentCreator('/Software-Architecture/blog/archive', '290'),
+    path: '/Software-Architecture/__docusaurus/debug/config',
+    component: ComponentCreator('/Software-Architecture/__docusaurus/debug/config', 'eef'),
     exact: true
   },
   {
-    path: '/Software-Architecture/blog/first-blog-post',
-    component: ComponentCreator('/Software-Architecture/blog/first-blog-post', '9a5'),
+    path: '/Software-Architecture/__docusaurus/debug/content',
+    component: ComponentCreator('/Software-Architecture/__docusaurus/debug/content', '056'),
     exact: true
   },
   {
-    path: '/Software-Architecture/blog/long-blog-post',
-    component: ComponentCreator('/Software-Architecture/blog/long-blog-post', '989'),
+    path: '/Software-Architecture/__docusaurus/debug/globalData',
+    component: ComponentCreator('/Software-Architecture/__docusaurus/debug/globalData', '9b1'),
     exact: true
   },
   {
-    path: '/Software-Architecture/blog/mdx-blog-post',
-    component: ComponentCreator('/Software-Architecture/blog/mdx-blog-post', '191'),
+    path: '/Software-Architecture/__docusaurus/debug/metadata',
+    component: ComponentCreator('/Software-Architecture/__docusaurus/debug/metadata', '49e'),
     exact: true
   },
   {
-    path: '/Software-Architecture/blog/tags',
-    component: ComponentCreator('/Software-Architecture/blog/tags', 'f1b'),
+    path: '/Software-Architecture/__docusaurus/debug/registry',
+    component: ComponentCreator('/Software-Architecture/__docusaurus/debug/registry', 'b86'),
     exact: true
   },
   {
-    path: '/Software-Architecture/blog/tags/docusaurus',
-    component: ComponentCreator('/Software-Architecture/blog/tags/docusaurus', '2ad'),
-    exact: true
-  },
-  {
-    path: '/Software-Architecture/blog/tags/facebook',
-    component: ComponentCreator('/Software-Architecture/blog/tags/facebook', 'f81'),
-    exact: true
-  },
-  {
-    path: '/Software-Architecture/blog/tags/hello',
-    component: ComponentCreator('/Software-Architecture/blog/tags/hello', 'ffd'),
-    exact: true
-  },
-  {
-    path: '/Software-Architecture/blog/tags/hola',
-    component: ComponentCreator('/Software-Architecture/blog/tags/hola', '4a7'),
-    exact: true
-  },
-  {
-    path: '/Software-Architecture/blog/welcome',
-    component: ComponentCreator('/Software-Architecture/blog/welcome', 'e8c'),
+    path: '/Software-Architecture/__docusaurus/debug/routes',
+    component: ComponentCreator('/Software-Architecture/__docusaurus/debug/routes', '89e'),
     exact: true
   },
   {
