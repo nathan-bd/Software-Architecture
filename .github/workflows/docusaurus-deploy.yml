@@ -1,0 +1,30 @@
+name: Deploy Docusaurus Site
+
+on:
+  push:
+    branches:
+      - main  # Set to your default branch, e.g., main or master
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout Code
+      uses: actions/checkout@v2
+
+    - name: Setup Node.js
+      uses: actions/setup-node@v2
+      with:
+        node-version: '14' # Set to the Node.js version you use
+
+    - name: Install and Build
+      run: |
+        yarn install
+        yarn build
+
+    - name: Deploy to GitHub Pages
+      uses: JamesIves/github-pages-deploy-action@4.1.4
+      with:
+        branch: gh-pages  # The branch the action should deploy to.
+        folder: build     # The folder the action should deploy.
+        token: ${{ secrets.GITHUB_TOKEN }}  # GitHub automatically creates this secret to authenticate in your workflow.
