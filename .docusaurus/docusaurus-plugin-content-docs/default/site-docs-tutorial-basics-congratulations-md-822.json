@@ -17,11 +17,7 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Deploy your site",
-    "permalink": "/Software-Architecture/docs/tutorial-basics/deploy-your-site"
-  },
-  "next": {
-    "title": "Tutorial - Extras",
-    "permalink": "/Software-Architecture/docs/category/tutorial---extras"
+    "title": "Markdown Features",
+    "permalink": "/Software-Architecture/docs/tutorial-basics/markdown-features"
   }
 }

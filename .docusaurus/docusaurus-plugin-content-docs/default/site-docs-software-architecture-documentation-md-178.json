@@ -1,0 +1,27 @@
+{
+  "id": "Software Architecture/documentation",
+  "title": "Documentation",
+  "description": "Importance of Documentation",
+  "source": "@site/docs/Software Architecture/documentation.md",
+  "sourceDirName": "Software Architecture",
+  "slug": "/Software Architecture/documentation",
+  "permalink": "/Software-Architecture/docs/Software Architecture/documentation",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Software Architecture/documentation.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_position": 8
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Quality Attributes",
+    "permalink": "/Software-Architecture/docs/Software Architecture/quality-attributes"
+  },
+  "next": {
+    "title": "Architectural Tools and Techniques",
+    "permalink": "/Software-Architecture/docs/Software Architecture/architecural-tools"
+  }
+}

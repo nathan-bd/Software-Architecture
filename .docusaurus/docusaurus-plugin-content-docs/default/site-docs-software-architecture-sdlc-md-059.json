@@ -1,0 +1,27 @@
+{
+  "id": "Software Architecture/SDLC",
+  "title": "Overview of Software Development Lifecycle (SDLC)",
+  "description": "Phases of the Lifecycle",
+  "source": "@site/docs/Software Architecture/SDLC.md",
+  "sourceDirName": "Software Architecture",
+  "slug": "/Software Architecture/SDLC",
+  "permalink": "/Software-Architecture/docs/Software Architecture/SDLC",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Software Architecture/SDLC.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction to Software Architecture",
+    "permalink": "/Software-Architecture/docs/Software Architecture/intro"
+  },
+  "next": {
+    "title": "architectural-patterns",
+    "permalink": "/Software-Architecture/docs/Software Architecture/architectural-patterns"
+  }
+}

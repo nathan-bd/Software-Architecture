@@ -20,174 +20,16 @@
           "contentPathLocalized": "/Users/nathanbarlow-dean/projects/Software-Architecture/i18n/en/docusaurus-plugin-content-docs/current",
           "docs": [
             {
-              "id": "intro",
-              "title": "Tutorial Intro",
-              "description": "Let's discover Docusaurus in less than 5 minutes.",
-              "source": "@site/docs/intro.md",
-              "sourceDirName": ".",
-              "slug": "/intro",
-              "permalink": "/Software-Architecture/docs/intro",
+              "id": "Software Architecture/architectural-patterns",
+              "title": "Architectural Patterns",
+              "description": "Overview of common patterns",
+              "source": "@site/docs/Software Architecture/architectural-patterns.md",
+              "sourceDirName": "Software Architecture",
+              "slug": "/Software Architecture/architectural-patterns",
+              "permalink": "/Software-Architecture/docs/Software Architecture/architectural-patterns",
               "draft": false,
               "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/intro.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 1,
-              "frontMatter": {
-                "sidebar_position": 1
-              },
-              "sidebar": "tutorialSidebar",
-              "next": {
-                "title": "Tutorial - Basics",
-                "permalink": "/Software-Architecture/docs/category/tutorial---basics"
-              }
-            },
-            {
-              "id": "tutorial-basics/congratulations",
-              "title": "Congratulations!",
-              "description": "You have just learned the basics of Docusaurus and made some changes to the initial template.",
-              "source": "@site/docs/tutorial-basics/congratulations.md",
-              "sourceDirName": "tutorial-basics",
-              "slug": "/tutorial-basics/congratulations",
-              "permalink": "/Software-Architecture/docs/tutorial-basics/congratulations",
-              "draft": false,
-              "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/congratulations.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 6,
-              "frontMatter": {
-                "sidebar_position": 6
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Deploy your site",
-                "permalink": "/Software-Architecture/docs/tutorial-basics/deploy-your-site"
-              },
-              "next": {
-                "title": "Tutorial - Extras",
-                "permalink": "/Software-Architecture/docs/category/tutorial---extras"
-              }
-            },
-            {
-              "id": "tutorial-basics/create-a-blog-post",
-              "title": "Create a Blog Post",
-              "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
-              "source": "@site/docs/tutorial-basics/create-a-blog-post.md",
-              "sourceDirName": "tutorial-basics",
-              "slug": "/tutorial-basics/create-a-blog-post",
-              "permalink": "/Software-Architecture/docs/tutorial-basics/create-a-blog-post",
-              "draft": false,
-              "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/create-a-blog-post.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 3,
-              "frontMatter": {
-                "sidebar_position": 3
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Create a Document",
-                "permalink": "/Software-Architecture/docs/tutorial-basics/create-a-document"
-              },
-              "next": {
-                "title": "Markdown Features",
-                "permalink": "/Software-Architecture/docs/tutorial-basics/markdown-features"
-              }
-            },
-            {
-              "id": "tutorial-basics/create-a-document",
-              "title": "Create a Document",
-              "description": "Documents are groups of pages connected through:",
-              "source": "@site/docs/tutorial-basics/create-a-document.md",
-              "sourceDirName": "tutorial-basics",
-              "slug": "/tutorial-basics/create-a-document",
-              "permalink": "/Software-Architecture/docs/tutorial-basics/create-a-document",
-              "draft": false,
-              "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/create-a-document.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 2,
-              "frontMatter": {
-                "sidebar_position": 2
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Create a Page",
-                "permalink": "/Software-Architecture/docs/tutorial-basics/create-a-page"
-              },
-              "next": {
-                "title": "Create a Blog Post",
-                "permalink": "/Software-Architecture/docs/tutorial-basics/create-a-blog-post"
-              }
-            },
-            {
-              "id": "tutorial-basics/create-a-page",
-              "title": "Create a Page",
-              "description": "Add Markdown or React files to src/pages to create a standalone page:",
-              "source": "@site/docs/tutorial-basics/create-a-page.md",
-              "sourceDirName": "tutorial-basics",
-              "slug": "/tutorial-basics/create-a-page",
-              "permalink": "/Software-Architecture/docs/tutorial-basics/create-a-page",
-              "draft": false,
-              "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/create-a-page.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 1,
-              "frontMatter": {
-                "sidebar_position": 1
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Tutorial - Basics",
-                "permalink": "/Software-Architecture/docs/category/tutorial---basics"
-              },
-              "next": {
-                "title": "Create a Document",
-                "permalink": "/Software-Architecture/docs/tutorial-basics/create-a-document"
-              }
-            },
-            {
-              "id": "tutorial-basics/deploy-your-site",
-              "title": "Deploy your site",
-              "description": "Docusaurus is a static-site-generator (also called Jamstack).",
-              "source": "@site/docs/tutorial-basics/deploy-your-site.md",
-              "sourceDirName": "tutorial-basics",
-              "slug": "/tutorial-basics/deploy-your-site",
-              "permalink": "/Software-Architecture/docs/tutorial-basics/deploy-your-site",
-              "draft": false,
-              "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/deploy-your-site.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 5,
-              "frontMatter": {
-                "sidebar_position": 5
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Markdown Features",
-                "permalink": "/Software-Architecture/docs/tutorial-basics/markdown-features"
-              },
-              "next": {
-                "title": "Congratulations!",
-                "permalink": "/Software-Architecture/docs/tutorial-basics/congratulations"
-              }
-            },
-            {
-              "id": "tutorial-basics/markdown-features",
-              "title": "Markdown Features",
-              "description": "Docusaurus supports Markdown and a few additional features.",
-              "source": "@site/docs/tutorial-basics/markdown-features.mdx",
-              "sourceDirName": "tutorial-basics",
-              "slug": "/tutorial-basics/markdown-features",
-              "permalink": "/Software-Architecture/docs/tutorial-basics/markdown-features",
-              "draft": false,
-              "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/markdown-features.mdx",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Software Architecture/architectural-patterns.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 4,
@@ -196,25 +38,160 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Create a Blog Post",
-                "permalink": "/Software-Architecture/docs/tutorial-basics/create-a-blog-post"
+                "title": "Stakeholder Management and Requirements Engineering",
+                "permalink": "/Software-Architecture/docs/Software Architecture/stakeholder-managmenet"
               },
               "next": {
-                "title": "Deploy your site",
-                "permalink": "/Software-Architecture/docs/tutorial-basics/deploy-your-site"
+                "title": "Design Principles",
+                "permalink": "/Software-Architecture/docs/Software Architecture/design-principles"
               }
             },
             {
-              "id": "tutorial-extras/manage-docs-versions",
-              "title": "Manage Docs Versions",
-              "description": "Docusaurus can manage multiple versions of your docs.",
-              "source": "@site/docs/tutorial-extras/manage-docs-versions.md",
-              "sourceDirName": "tutorial-extras",
-              "slug": "/tutorial-extras/manage-docs-versions",
-              "permalink": "/Software-Architecture/docs/tutorial-extras/manage-docs-versions",
+              "id": "Software Architecture/architecural-tools",
+              "title": "Architectural Tools and Techniques",
+              "description": "Modelling and diagram tools",
+              "source": "@site/docs/Software Architecture/architecural-tools.md",
+              "sourceDirName": "Software Architecture",
+              "slug": "/Software Architecture/architecural-tools",
+              "permalink": "/Software-Architecture/docs/Software Architecture/architecural-tools",
               "draft": false,
               "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-extras/manage-docs-versions.md",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Software Architecture/architecural-tools.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 9,
+              "frontMatter": {
+                "sidebar_position": 9
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Documentation",
+                "permalink": "/Software-Architecture/docs/Software Architecture/documentation"
+              },
+              "next": {
+                "title": "Future Trends and Innovations",
+                "permalink": "/Software-Architecture/docs/Software Architecture/future-trends-Innovations"
+              }
+            },
+            {
+              "id": "Software Architecture/components-structures",
+              "title": "Components and Structures",
+              "description": "Building blocks of software architecture",
+              "source": "@site/docs/Software Architecture/components-structures.md",
+              "sourceDirName": "Software Architecture",
+              "slug": "/Software Architecture/components-structures",
+              "permalink": "/Software-Architecture/docs/Software Architecture/components-structures",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Software Architecture/components-structures.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_position": 6
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Design Principles",
+                "permalink": "/Software-Architecture/docs/Software Architecture/design-principles"
+              },
+              "next": {
+                "title": "Quality Attributes",
+                "permalink": "/Software-Architecture/docs/Software Architecture/quality-attributes"
+              }
+            },
+            {
+              "id": "Software Architecture/design-principles",
+              "title": "Design Principles",
+              "description": "SOLID Principles",
+              "source": "@site/docs/Software Architecture/design-principles.md",
+              "sourceDirName": "Software Architecture",
+              "slug": "/Software Architecture/design-principles",
+              "permalink": "/Software-Architecture/docs/Software Architecture/design-principles",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Software Architecture/design-principles.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Architectural Patterns",
+                "permalink": "/Software-Architecture/docs/Software Architecture/architectural-patterns"
+              },
+              "next": {
+                "title": "Components and Structures",
+                "permalink": "/Software-Architecture/docs/Software Architecture/components-structures"
+              }
+            },
+            {
+              "id": "Software Architecture/documentation",
+              "title": "Documentation",
+              "description": "Importance of Documentation",
+              "source": "@site/docs/Software Architecture/documentation.md",
+              "sourceDirName": "Software Architecture",
+              "slug": "/Software Architecture/documentation",
+              "permalink": "/Software-Architecture/docs/Software Architecture/documentation",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Software Architecture/documentation.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 8,
+              "frontMatter": {
+                "sidebar_position": 8
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Quality Attributes",
+                "permalink": "/Software-Architecture/docs/Software Architecture/quality-attributes"
+              },
+              "next": {
+                "title": "Architectural Tools and Techniques",
+                "permalink": "/Software-Architecture/docs/Software Architecture/architecural-tools"
+              }
+            },
+            {
+              "id": "Software Architecture/future-trends-Innovations",
+              "title": "Future Trends and Innovations",
+              "description": "Emerging technologies",
+              "source": "@site/docs/Software Architecture/future-trends-Innovations.md",
+              "sourceDirName": "Software Architecture",
+              "slug": "/Software Architecture/future-trends-Innovations",
+              "permalink": "/Software-Architecture/docs/Software Architecture/future-trends-Innovations",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Software Architecture/future-trends-Innovations.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 10,
+              "frontMatter": {
+                "sidebar_position": 10
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Architectural Tools and Techniques",
+                "permalink": "/Software-Architecture/docs/Software Architecture/architecural-tools"
+              },
+              "next": {
+                "title": "Resources",
+                "permalink": "/Software-Architecture/docs/Software Architecture/resources"
+              }
+            },
+            {
+              "id": "Software Architecture/intro",
+              "title": "Introduction to Software Architecture",
+              "description": "Purpose and importance",
+              "source": "@site/docs/Software Architecture/intro.md",
+              "sourceDirName": "Software Architecture",
+              "slug": "/Software Architecture/intro",
+              "permalink": "/Software-Architecture/docs/Software Architecture/intro",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Software Architecture/intro.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
@@ -222,26 +199,72 @@
                 "sidebar_position": 1
               },
               "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Tutorial - Extras",
-                "permalink": "/Software-Architecture/docs/category/tutorial---extras"
-              },
               "next": {
-                "title": "Translate your site",
-                "permalink": "/Software-Architecture/docs/tutorial-extras/translate-your-site"
+                "title": "Overview of the Software Development Lifecycle (SDLC)",
+                "permalink": "/Software-Architecture/docs/Software Architecture/sdlc"
               }
             },
             {
-              "id": "tutorial-extras/translate-your-site",
-              "title": "Translate your site",
-              "description": "Let's translate docs/intro.md to French.",
-              "source": "@site/docs/tutorial-extras/translate-your-site.md",
-              "sourceDirName": "tutorial-extras",
-              "slug": "/tutorial-extras/translate-your-site",
-              "permalink": "/Software-Architecture/docs/tutorial-extras/translate-your-site",
+              "id": "Software Architecture/quality-attributes",
+              "title": "Quality Attributes",
+              "description": "Performance",
+              "source": "@site/docs/Software Architecture/quality-attributes.md",
+              "sourceDirName": "Software Architecture",
+              "slug": "/Software Architecture/quality-attributes",
+              "permalink": "/Software-Architecture/docs/Software Architecture/quality-attributes",
               "draft": false,
               "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-extras/translate-your-site.md",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Software Architecture/quality-attributes.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 7,
+              "frontMatter": {
+                "sidebar_position": 7
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Components and Structures",
+                "permalink": "/Software-Architecture/docs/Software Architecture/components-structures"
+              },
+              "next": {
+                "title": "Documentation",
+                "permalink": "/Software-Architecture/docs/Software Architecture/documentation"
+              }
+            },
+            {
+              "id": "Software Architecture/resources",
+              "title": "Resources",
+              "description": "",
+              "source": "@site/docs/Software Architecture/resources.md",
+              "sourceDirName": "Software Architecture",
+              "slug": "/Software Architecture/resources",
+              "permalink": "/Software-Architecture/docs/Software Architecture/resources",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Software Architecture/resources.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 11,
+              "frontMatter": {
+                "sidebar_position": 11
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Future Trends and Innovations",
+                "permalink": "/Software-Architecture/docs/Software Architecture/future-trends-Innovations"
+              }
+            },
+            {
+              "id": "Software Architecture/sdlc",
+              "title": "Overview of the Software Development Lifecycle (SDLC)",
+              "description": "In this section, we delve into the Software Development Lifecycle (SDLC), a foundational concept that shapes the entire software development process. The SDLC consists of a series of structured phases that guide teams from initial planning through to the deployment and maintenance of software. This lifecycle ensures software is developed systematically, efficiently, and measurably. By exploring each phase of the SDLC, we aim to equip you with a comprehensive understanding of how to manage software projects successfully, minimise risks, and enhance overall productivity. Whether you are an experienced developer or new to the field, grasping the intricacies of the SDLC will be invaluable in navigating the complexities of software architecture and development.",
+              "source": "@site/docs/Software Architecture/sdlc.md",
+              "sourceDirName": "Software Architecture",
+              "slug": "/Software Architecture/sdlc",
+              "permalink": "/Software-Architecture/docs/Software Architecture/sdlc",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Software Architecture/sdlc.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 2,
@@ -250,8 +273,39 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Manage Docs Versions",
-                "permalink": "/Software-Architecture/docs/tutorial-extras/manage-docs-versions"
+                "title": "Introduction to Software Architecture",
+                "permalink": "/Software-Architecture/docs/Software Architecture/intro"
+              },
+              "next": {
+                "title": "Stakeholder Management and Requirements Engineering",
+                "permalink": "/Software-Architecture/docs/Software Architecture/stakeholder-managmenet"
+              }
+            },
+            {
+              "id": "Software Architecture/stakeholder-managmenet",
+              "title": "Stakeholder Management and Requirements Engineering",
+              "description": "dentifying Stakeholders",
+              "source": "@site/docs/Software Architecture/stakeholder-managmenet.md",
+              "sourceDirName": "Software Architecture",
+              "slug": "/Software Architecture/stakeholder-managmenet",
+              "permalink": "/Software-Architecture/docs/Software Architecture/stakeholder-managmenet",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Software Architecture/stakeholder-managmenet.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Overview of the Software Development Lifecycle (SDLC)",
+                "permalink": "/Software-Architecture/docs/Software Architecture/sdlc"
+              },
+              "next": {
+                "title": "Architectural Patterns",
+                "permalink": "/Software-Architecture/docs/Software Architecture/architectural-patterns"
               }
             }
           ],
@@ -259,67 +313,56 @@
           "sidebars": {
             "tutorialSidebar": [
               {
-                "type": "doc",
-                "id": "intro"
-              },
-              {
                 "type": "category",
-                "label": "Tutorial - Basics",
+                "label": "Software Architecture",
                 "collapsible": true,
                 "collapsed": true,
                 "items": [
                   {
                     "type": "doc",
-                    "id": "tutorial-basics/create-a-page"
+                    "id": "Software Architecture/intro"
                   },
                   {
                     "type": "doc",
-                    "id": "tutorial-basics/create-a-document"
+                    "id": "Software Architecture/sdlc"
                   },
                   {
                     "type": "doc",
-                    "id": "tutorial-basics/create-a-blog-post"
+                    "id": "Software Architecture/stakeholder-managmenet"
                   },
                   {
                     "type": "doc",
-                    "id": "tutorial-basics/markdown-features"
+                    "id": "Software Architecture/architectural-patterns"
                   },
                   {
                     "type": "doc",
-                    "id": "tutorial-basics/deploy-your-site"
+                    "id": "Software Architecture/design-principles"
                   },
                   {
                     "type": "doc",
-                    "id": "tutorial-basics/congratulations"
+                    "id": "Software Architecture/components-structures"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Software Architecture/quality-attributes"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Software Architecture/documentation"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Software Architecture/architecural-tools"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Software Architecture/future-trends-Innovations"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Software Architecture/resources"
                   }
-                ],
-                "link": {
-                  "type": "generated-index",
-                  "description": "5 minutes to learn the most important Docusaurus concepts.",
-                  "slug": "/category/tutorial---basics",
-                  "permalink": "/Software-Architecture/docs/category/tutorial---basics"
-                }
-              },
-              {
-                "type": "category",
-                "label": "Tutorial - Extras",
-                "collapsible": true,
-                "collapsed": true,
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "tutorial-extras/manage-docs-versions"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "tutorial-extras/translate-your-site"
-                  }
-                ],
-                "link": {
-                  "type": "generated-index",
-                  "slug": "/category/tutorial---extras",
-                  "permalink": "/Software-Architecture/docs/category/tutorial---extras"
-                }
+                ]
               }
             ]
           }

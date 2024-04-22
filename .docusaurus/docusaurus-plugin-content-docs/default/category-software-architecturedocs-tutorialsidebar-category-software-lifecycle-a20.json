@@ -1,0 +1,16 @@
+{
+  "title": "Software Lifecycle",
+  "description": "verview of Software Development Lifecycle (SDLC).",
+  "slug": "/category/software-lifecycle",
+  "permalink": "/Software-Architecture/docs/category/software-lifecycle",
+  "navigation": {
+    "previous": {
+      "title": "Introduction to Software Architecture",
+      "permalink": "/Software-Architecture/docs/intro"
+    },
+    "next": {
+      "title": "Overview of Software Development Lifecycle (SDLC)",
+      "permalink": "/Software-Architecture/docs/software architecture/SDLC"
+    }
+  }
+}

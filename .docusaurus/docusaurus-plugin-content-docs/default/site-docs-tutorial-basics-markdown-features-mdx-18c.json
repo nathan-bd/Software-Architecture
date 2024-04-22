@@ -17,11 +17,7 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Create a Blog Post",
-    "permalink": "/Software-Architecture/docs/tutorial-basics/create-a-blog-post"
-  },
-  "next": {
-    "title": "Deploy your site",
-    "permalink": "/Software-Architecture/docs/tutorial-basics/deploy-your-site"
+    "title": "Tutorial - Basics",
+    "permalink": "/Software-Architecture/docs/category/tutorial---basics"
   }
 }

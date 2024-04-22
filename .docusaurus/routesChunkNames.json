@@ -56,61 +56,61 @@
     },
     "content": "content---software-architecture-markdown-page-393-2ca"
   },
-  "/Software-Architecture/docs-488": {
+  "/Software-Architecture/docs-357": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---software-architecture-docs-78-b-683"
     }
   },
-  "/Software-Architecture/docs-f18": {
+  "/Software-Architecture/docs-a1b": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "version": "version---software-architecture-docs-935-8c0"
   },
-  "/Software-Architecture/docs-a96": {
+  "/Software-Architecture/docs-0be": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
-  "/Software-Architecture/docs/category/tutorial---basics-bdd": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---software-architecture-docs-category-tutorial-basics-877-932"
-  },
-  "/Software-Architecture/docs/category/tutorial---extras-eb4": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---software-architecture-docs-category-tutorial-extras-84-e-7ac"
-  },
-  "/Software-Architecture/docs/intro-3b8": {
+  "/Software-Architecture/docs/Software Architecture/architectural-patterns-932": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---software-architecture-docs-intro-0-e-3-39f"
+    "content": "content---software-architecture-docs-software-architecture-architectural-patterns-12-d-e09"
   },
-  "/Software-Architecture/docs/tutorial-basics/congratulations-7ca": {
+  "/Software-Architecture/docs/Software Architecture/architecural-tools-1f0": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---software-architecture-docs-tutorial-basics-congratulations-822-ae8"
+    "content": "content---software-architecture-docs-software-architecture-architecural-toolsc-02-a08"
   },
-  "/Software-Architecture/docs/tutorial-basics/create-a-blog-post-bb7": {
+  "/Software-Architecture/docs/Software Architecture/components-structures-b3b": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---software-architecture-docs-tutorial-basics-create-a-blog-post-533-ccb"
+    "content": "content---software-architecture-docs-software-architecture-components-structures-245-2bb"
   },
-  "/Software-Architecture/docs/tutorial-basics/create-a-document-3d8": {
+  "/Software-Architecture/docs/Software Architecture/design-principles-af2": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---software-architecture-docs-tutorial-basics-create-a-document-1-e-4-e77"
+    "content": "content---software-architecture-docs-software-architecture-design-principles-309-f5b"
   },
-  "/Software-Architecture/docs/tutorial-basics/create-a-page-c2b": {
+  "/Software-Architecture/docs/Software Architecture/documentation-5d4": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---software-architecture-docs-tutorial-basics-create-a-page-5-c-8-25f"
+    "content": "content---software-architecture-docs-software-architecture-documentation-178-489"
   },
-  "/Software-Architecture/docs/tutorial-basics/deploy-your-site-c07": {
+  "/Software-Architecture/docs/Software Architecture/future-trends-Innovations-39e": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---software-architecture-docs-tutorial-basics-deploy-your-sitef-55-28b"
+    "content": "content---software-architecture-docs-software-architecture-future-trends-innovations-9-ee-a2a"
   },
-  "/Software-Architecture/docs/tutorial-basics/markdown-features-319": {
+  "/Software-Architecture/docs/Software Architecture/intro-8d1": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---software-architecture-docs-tutorial-basics-markdown-features-18-c-88e"
+    "content": "content---software-architecture-docs-software-architecture-introaa-4-bff"
   },
-  "/Software-Architecture/docs/tutorial-extras/manage-docs-versions-dfd": {
+  "/Software-Architecture/docs/Software Architecture/quality-attributes-276": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---software-architecture-docs-tutorial-extras-manage-docs-versionsdff-f4e"
+    "content": "content---software-architecture-docs-software-architecture-quality-attributes-555-640"
   },
-  "/Software-Architecture/docs/tutorial-extras/translate-your-site-24d": {
+  "/Software-Architecture/docs/Software Architecture/resources-007": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---software-architecture-docs-tutorial-extras-translate-your-sitee-44-89a"
+    "content": "content---software-architecture-docs-software-architecture-resources-081-faa"
+  },
+  "/Software-Architecture/docs/Software Architecture/sdlc-c95": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---software-architecture-docs-software-architecture-sdlcba-1-296"
+  },
+  "/Software-Architecture/docs/Software Architecture/stakeholder-managmenet-c79": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---software-architecture-docs-software-architecture-stakeholder-managmenetb-05-ee9"
   }
 }

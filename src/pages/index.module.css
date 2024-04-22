@@ -2,12 +2,17 @@
  * CSS files with the .module.css suffix will be treated as CSS modules
  * and scoped locally.
  */
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@400;700&display=swap");
 
-.heroBanner {
+.heroBanner .container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
   padding: 4rem 0;
-  text-align: center;
+  text-align: left;
   position: relative;
   overflow: hidden;
+  font-family: "Roboto Mono", monospace; /* Apply the Roboto Mono font */
 }
 
 @media screen and (max-width: 996px) {
@@ -16,8 +21,37 @@
   }
 }
 
-.buttons {
+.cursor {
+  display: inline-block;
+  width: 8px;
+  height: 1rem; /* Match the line height of your text */
+  background-color: #33ff33; /* Same as text color */
+  margin-left: 5px;
+  vertical-align: middle;
+  animation: blink 1s step-end infinite;
+}
+
+@keyframes blink {
+  from,
+  to {
+    background-color: transparent;
+  }
+  50% {
+    background-color: #33ff33;
+  }
+}
+
+.centeredButton {
   display: flex;
-  align-items: center;
-  justify-content: center;
+  justify-content: center; /* Centers the button horizontally */
+  margin-top: 20px; /* Adds space above the button */
+}
+
+.getStartedButton {
+  background-color: rgb(187, 23, 23); /* Red background color for the button */
+  color: white; /* Ensures text is white for better contrast */
+  padding: 8px 16px; /* Provides padding around the text */
+  border: none; /* Removes any default border */
+  cursor: pointer; /* Changes cursor to pointer on hover to indicate clickability */
+  border-radius: 4px; /* Optionally rounds the corners of the button */
 }

@@ -1,0 +1,23 @@
+{
+  "id": "Software Architecture/resources",
+  "title": "Resources",
+  "description": "",
+  "source": "@site/docs/Software Architecture/resources.md",
+  "sourceDirName": "Software Architecture",
+  "slug": "/Software Architecture/resources",
+  "permalink": "/Software-Architecture/docs/Software Architecture/resources",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Software Architecture/resources.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 11,
+  "frontMatter": {
+    "sidebar_position": 11
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Future Trends and Innovations",
+    "permalink": "/Software-Architecture/docs/Software Architecture/future-trends-Innovations"
+  }
+}

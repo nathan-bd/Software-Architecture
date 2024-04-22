@@ -1,0 +1,24 @@
+{
+  "id": "Software Architecture/arcitectural patterns",
+  "title": "arcitectural patterns",
+  "description": "Architectural Patterns",
+  "source": "@site/docs/Software Architecture/arcitectural patterns.md",
+  "sourceDirName": "Software Architecture",
+  "slug": "/Software Architecture/arcitectural patterns",
+  "permalink": "/Software-Architecture/docs/Software Architecture/arcitectural patterns",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Software Architecture/arcitectural patterns.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Overview of Software Development Lifecycle (SDLC)",
+    "permalink": "/Software-Architecture/docs/Software Architecture/SDLC"
+  },
+  "next": {
+    "title": "Stakeholder Management and Requirements Engineering",
+    "permalink": "/Software-Architecture/docs/Software Architecture/stakeholder managmenet"
+  }
+}

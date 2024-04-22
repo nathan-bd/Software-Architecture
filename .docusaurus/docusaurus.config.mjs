@@ -36,39 +36,28 @@ export default {
     ]
   ],
   "themeConfig": {
+    "colorMode": {
+      "disableSwitch": true,
+      "defaultMode": "light",
+      "respectPrefersColorScheme": false
+    },
     "image": "img/docusaurus-social-card.jpg",
     "navbar": {
-      "title": "My Site",
+      "title": "Software Architecture",
       "logo": {
-        "alt": "My Site Logo",
-        "src": "img/logo.svg"
+        "alt": "logo",
+        "src": "img/logo.png"
       },
+      "style": "dark",
       "items": [
         {
-          "type": "docSidebar",
-          "sidebarId": "tutorialSidebar",
-          "position": "left",
-          "label": "Tutorial"
+          "label": "github",
+          "position": "right",
+          "href": "https://github.com/nathan-bd",
+          "className": "header-github-link"
         }
       ],
       "hideOnScroll": false
-    },
-    "footer": {
-      "style": "dark",
-      "links": [
-        {
-          "title": "Docs",
-          "items": []
-        },
-        {
-          "title": "Community",
-          "items": []
-        },
-        {
-          "title": "More",
-          "items": []
-        }
-      ]
     },
     "prism": {
       "theme": {
@@ -273,11 +262,6 @@ export default {
           }
         }
       ]
-    },
-    "colorMode": {
-      "defaultMode": "light",
-      "disableSwitch": false,
-      "respectPrefersColorScheme": false
     },
     "docs": {
       "versionPersistence": "localStorage",

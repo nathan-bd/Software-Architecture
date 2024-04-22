@@ -1,0 +1,23 @@
+{
+  "id": "Software Architecture/intro",
+  "title": "Introduction to Software Architecture",
+  "description": "Purpose and importance",
+  "source": "@site/docs/Software Architecture/intro.md",
+  "sourceDirName": "Software Architecture",
+  "slug": "/Software Architecture/intro",
+  "permalink": "/Software-Architecture/docs/Software Architecture/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Software Architecture/intro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Overview of the Software Development Lifecycle (SDLC)",
+    "permalink": "/Software-Architecture/docs/Software Architecture/sdlc"
+  }
+}

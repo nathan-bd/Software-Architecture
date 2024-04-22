@@ -1,0 +1,27 @@
+{
+  "id": "Software Architecture/design-principles",
+  "title": "Design Principles",
+  "description": "SOLID Principles",
+  "source": "@site/docs/Software Architecture/design-principles.md",
+  "sourceDirName": "Software Architecture",
+  "slug": "/Software Architecture/design-principles",
+  "permalink": "/Software-Architecture/docs/Software Architecture/design-principles",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Software Architecture/design-principles.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Architectural Patterns",
+    "permalink": "/Software-Architecture/docs/Software Architecture/architectural-patterns"
+  },
+  "next": {
+    "title": "Components and Structures",
+    "permalink": "/Software-Architecture/docs/Software Architecture/components-structures"
+  }
+}

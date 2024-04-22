@@ -10,141 +10,157 @@
   "docsSidebars": {
     "tutorialSidebar": [
       {
-        "type": "link",
-        "label": "Tutorial Intro",
-        "href": "/Software-Architecture/docs/intro",
-        "docId": "intro",
-        "unlisted": false
-      },
-      {
         "type": "category",
-        "label": "Tutorial - Basics",
+        "label": "Software Architecture",
         "collapsible": true,
         "collapsed": true,
         "items": [
           {
             "type": "link",
-            "label": "Create a Page",
-            "href": "/Software-Architecture/docs/tutorial-basics/create-a-page",
-            "docId": "tutorial-basics/create-a-page",
+            "label": "Introduction to Software Architecture",
+            "href": "/Software-Architecture/docs/Software Architecture/intro",
+            "docId": "Software Architecture/intro",
             "unlisted": false
           },
           {
             "type": "link",
-            "label": "Create a Document",
-            "href": "/Software-Architecture/docs/tutorial-basics/create-a-document",
-            "docId": "tutorial-basics/create-a-document",
+            "label": "Overview of the Software Development Lifecycle (SDLC)",
+            "href": "/Software-Architecture/docs/Software Architecture/sdlc",
+            "docId": "Software Architecture/sdlc",
             "unlisted": false
           },
           {
             "type": "link",
-            "label": "Create a Blog Post",
-            "href": "/Software-Architecture/docs/tutorial-basics/create-a-blog-post",
-            "docId": "tutorial-basics/create-a-blog-post",
+            "label": "Stakeholder Management and Requirements Engineering",
+            "href": "/Software-Architecture/docs/Software Architecture/stakeholder-managmenet",
+            "docId": "Software Architecture/stakeholder-managmenet",
             "unlisted": false
           },
           {
             "type": "link",
-            "label": "Markdown Features",
-            "href": "/Software-Architecture/docs/tutorial-basics/markdown-features",
-            "docId": "tutorial-basics/markdown-features",
+            "label": "Architectural Patterns",
+            "href": "/Software-Architecture/docs/Software Architecture/architectural-patterns",
+            "docId": "Software Architecture/architectural-patterns",
             "unlisted": false
           },
           {
             "type": "link",
-            "label": "Deploy your site",
-            "href": "/Software-Architecture/docs/tutorial-basics/deploy-your-site",
-            "docId": "tutorial-basics/deploy-your-site",
+            "label": "Design Principles",
+            "href": "/Software-Architecture/docs/Software Architecture/design-principles",
+            "docId": "Software Architecture/design-principles",
             "unlisted": false
           },
           {
             "type": "link",
-            "label": "Congratulations!",
-            "href": "/Software-Architecture/docs/tutorial-basics/congratulations",
-            "docId": "tutorial-basics/congratulations",
+            "label": "Components and Structures",
+            "href": "/Software-Architecture/docs/Software Architecture/components-structures",
+            "docId": "Software Architecture/components-structures",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Quality Attributes",
+            "href": "/Software-Architecture/docs/Software Architecture/quality-attributes",
+            "docId": "Software Architecture/quality-attributes",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Documentation",
+            "href": "/Software-Architecture/docs/Software Architecture/documentation",
+            "docId": "Software Architecture/documentation",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Architectural Tools and Techniques",
+            "href": "/Software-Architecture/docs/Software Architecture/architecural-tools",
+            "docId": "Software Architecture/architecural-tools",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Future Trends and Innovations",
+            "href": "/Software-Architecture/docs/Software Architecture/future-trends-Innovations",
+            "docId": "Software Architecture/future-trends-Innovations",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Resources",
+            "href": "/Software-Architecture/docs/Software Architecture/resources",
+            "docId": "Software Architecture/resources",
             "unlisted": false
           }
-        ],
-        "href": "/Software-Architecture/docs/category/tutorial---basics"
-      },
-      {
-        "type": "category",
-        "label": "Tutorial - Extras",
-        "collapsible": true,
-        "collapsed": true,
-        "items": [
-          {
-            "type": "link",
-            "label": "Manage Docs Versions",
-            "href": "/Software-Architecture/docs/tutorial-extras/manage-docs-versions",
-            "docId": "tutorial-extras/manage-docs-versions",
-            "unlisted": false
-          },
-          {
-            "type": "link",
-            "label": "Translate your site",
-            "href": "/Software-Architecture/docs/tutorial-extras/translate-your-site",
-            "docId": "tutorial-extras/translate-your-site",
-            "unlisted": false
-          }
-        ],
-        "href": "/Software-Architecture/docs/category/tutorial---extras"
+        ]
       }
     ]
   },
   "docs": {
-    "intro": {
-      "id": "intro",
-      "title": "Tutorial Intro",
-      "description": "Let's discover Docusaurus in less than 5 minutes.",
+    "Software Architecture/architectural-patterns": {
+      "id": "Software Architecture/architectural-patterns",
+      "title": "Architectural Patterns",
+      "description": "Overview of common patterns",
       "sidebar": "tutorialSidebar"
     },
-    "tutorial-basics/congratulations": {
-      "id": "tutorial-basics/congratulations",
-      "title": "Congratulations!",
-      "description": "You have just learned the basics of Docusaurus and made some changes to the initial template.",
+    "Software Architecture/architecural-tools": {
+      "id": "Software Architecture/architecural-tools",
+      "title": "Architectural Tools and Techniques",
+      "description": "Modelling and diagram tools",
       "sidebar": "tutorialSidebar"
     },
-    "tutorial-basics/create-a-blog-post": {
-      "id": "tutorial-basics/create-a-blog-post",
-      "title": "Create a Blog Post",
-      "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
+    "Software Architecture/components-structures": {
+      "id": "Software Architecture/components-structures",
+      "title": "Components and Structures",
+      "description": "Building blocks of software architecture",
       "sidebar": "tutorialSidebar"
     },
-    "tutorial-basics/create-a-document": {
-      "id": "tutorial-basics/create-a-document",
-      "title": "Create a Document",
-      "description": "Documents are groups of pages connected through:",
+    "Software Architecture/design-principles": {
+      "id": "Software Architecture/design-principles",
+      "title": "Design Principles",
+      "description": "SOLID Principles",
       "sidebar": "tutorialSidebar"
     },
-    "tutorial-basics/create-a-page": {
-      "id": "tutorial-basics/create-a-page",
-      "title": "Create a Page",
-      "description": "Add Markdown or React files to src/pages to create a standalone page:",
+    "Software Architecture/documentation": {
+      "id": "Software Architecture/documentation",
+      "title": "Documentation",
+      "description": "Importance of Documentation",
       "sidebar": "tutorialSidebar"
     },
-    "tutorial-basics/deploy-your-site": {
-      "id": "tutorial-basics/deploy-your-site",
-      "title": "Deploy your site",
-      "description": "Docusaurus is a static-site-generator (also called Jamstack).",
+    "Software Architecture/future-trends-Innovations": {
+      "id": "Software Architecture/future-trends-Innovations",
+      "title": "Future Trends and Innovations",
+      "description": "Emerging technologies",
       "sidebar": "tutorialSidebar"
     },
-    "tutorial-basics/markdown-features": {
-      "id": "tutorial-basics/markdown-features",
-      "title": "Markdown Features",
-      "description": "Docusaurus supports Markdown and a few additional features.",
+    "Software Architecture/intro": {
+      "id": "Software Architecture/intro",
+      "title": "Introduction to Software Architecture",
+      "description": "Purpose and importance",
       "sidebar": "tutorialSidebar"
     },
-    "tutorial-extras/manage-docs-versions": {
-      "id": "tutorial-extras/manage-docs-versions",
-      "title": "Manage Docs Versions",
-      "description": "Docusaurus can manage multiple versions of your docs.",
+    "Software Architecture/quality-attributes": {
+      "id": "Software Architecture/quality-attributes",
+      "title": "Quality Attributes",
+      "description": "Performance",
       "sidebar": "tutorialSidebar"
     },
-    "tutorial-extras/translate-your-site": {
-      "id": "tutorial-extras/translate-your-site",
-      "title": "Translate your site",
-      "description": "Let's translate docs/intro.md to French.",
+    "Software Architecture/resources": {
+      "id": "Software Architecture/resources",
+      "title": "Resources",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "Software Architecture/sdlc": {
+      "id": "Software Architecture/sdlc",
+      "title": "Overview of the Software Development Lifecycle (SDLC)",
+      "description": "In this section, we delve into the Software Development Lifecycle (SDLC), a foundational concept that shapes the entire software development process. The SDLC consists of a series of structured phases that guide teams from initial planning through to the deployment and maintenance of software. This lifecycle ensures software is developed systematically, efficiently, and measurably. By exploring each phase of the SDLC, we aim to equip you with a comprehensive understanding of how to manage software projects successfully, minimise risks, and enhance overall productivity. Whether you are an experienced developer or new to the field, grasping the intricacies of the SDLC will be invaluable in navigating the complexities of software architecture and development.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Software Architecture/stakeholder-managmenet": {
+      "id": "Software Architecture/stakeholder-managmenet",
+      "title": "Stakeholder Management and Requirements Engineering",
+      "description": "dentifying Stakeholders",
       "sidebar": "tutorialSidebar"
     }
   }

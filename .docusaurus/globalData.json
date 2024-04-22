@@ -8,61 +8,61 @@
           "label": "Next",
           "isLast": true,
           "path": "/Software-Architecture/docs",
-          "mainDocId": "intro",
+          "mainDocId": "Software Architecture/intro",
           "docs": [
             {
-              "id": "intro",
-              "path": "/Software-Architecture/docs/intro",
+              "id": "Software Architecture/architectural-patterns",
+              "path": "/Software-Architecture/docs/Software Architecture/architectural-patterns",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/congratulations",
-              "path": "/Software-Architecture/docs/tutorial-basics/congratulations",
+              "id": "Software Architecture/architecural-tools",
+              "path": "/Software-Architecture/docs/Software Architecture/architecural-tools",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/create-a-blog-post",
-              "path": "/Software-Architecture/docs/tutorial-basics/create-a-blog-post",
+              "id": "Software Architecture/components-structures",
+              "path": "/Software-Architecture/docs/Software Architecture/components-structures",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/create-a-document",
-              "path": "/Software-Architecture/docs/tutorial-basics/create-a-document",
+              "id": "Software Architecture/design-principles",
+              "path": "/Software-Architecture/docs/Software Architecture/design-principles",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/create-a-page",
-              "path": "/Software-Architecture/docs/tutorial-basics/create-a-page",
+              "id": "Software Architecture/documentation",
+              "path": "/Software-Architecture/docs/Software Architecture/documentation",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/deploy-your-site",
-              "path": "/Software-Architecture/docs/tutorial-basics/deploy-your-site",
+              "id": "Software Architecture/future-trends-Innovations",
+              "path": "/Software-Architecture/docs/Software Architecture/future-trends-Innovations",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/markdown-features",
-              "path": "/Software-Architecture/docs/tutorial-basics/markdown-features",
+              "id": "Software Architecture/intro",
+              "path": "/Software-Architecture/docs/Software Architecture/intro",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-extras/manage-docs-versions",
-              "path": "/Software-Architecture/docs/tutorial-extras/manage-docs-versions",
+              "id": "Software Architecture/quality-attributes",
+              "path": "/Software-Architecture/docs/Software Architecture/quality-attributes",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-extras/translate-your-site",
-              "path": "/Software-Architecture/docs/tutorial-extras/translate-your-site",
+              "id": "Software Architecture/resources",
+              "path": "/Software-Architecture/docs/Software Architecture/resources",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "/category/tutorial---basics",
-              "path": "/Software-Architecture/docs/category/tutorial---basics",
+              "id": "Software Architecture/sdlc",
+              "path": "/Software-Architecture/docs/Software Architecture/sdlc",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "/category/tutorial---extras",
-              "path": "/Software-Architecture/docs/category/tutorial---extras",
+              "id": "Software Architecture/stakeholder-managmenet",
+              "path": "/Software-Architecture/docs/Software Architecture/stakeholder-managmenet",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -70,8 +70,8 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/Software-Architecture/docs/intro",
-                "label": "intro"
+                "path": "/Software-Architecture/docs/Software Architecture/intro",
+                "label": "Software Architecture/intro"
               }
             }
           }

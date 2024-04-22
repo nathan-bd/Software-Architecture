@@ -3,9 +3,36 @@
   align-items: center;
   padding: 2rem 0;
   width: 100%;
+  background-color: var(--ifm-color-primary);
+  color: azure;
+}
+
+.feature {
+  border: 1px dashed rgb(187, 23, 23);
+  border-radius: 10px;
+  background-color: var(--ifm-color-primary);
+  margin: 10px; /* Maintain spacing between items */
+  padding: 1rem;
 }
 
 .featureSvg {
   height: 200px;
   width: 200px;
+}
+
+.heroBanner {
+  min-height: 50vh; /* Set minimum height to 50% of the viewport height */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.features {
+  min-height: 50vh; /* Ensure features section also takes at least 50% of the viewport height */
+}
+
+.layoutWrapper {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh; /* Makes sure the Layout fills at least the entire height of the viewport */
 }

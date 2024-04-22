@@ -49,79 +49,79 @@ export default [
   },
   {
     path: '/Software-Architecture/docs',
-    component: ComponentCreator('/Software-Architecture/docs', '488'),
+    component: ComponentCreator('/Software-Architecture/docs', '357'),
     routes: [
       {
         path: '/Software-Architecture/docs',
-        component: ComponentCreator('/Software-Architecture/docs', 'f18'),
+        component: ComponentCreator('/Software-Architecture/docs', 'a1b'),
         routes: [
           {
             path: '/Software-Architecture/docs',
-            component: ComponentCreator('/Software-Architecture/docs', 'a96'),
+            component: ComponentCreator('/Software-Architecture/docs', '0be'),
             routes: [
               {
-                path: '/Software-Architecture/docs/category/tutorial---basics',
-                component: ComponentCreator('/Software-Architecture/docs/category/tutorial---basics', 'bdd'),
+                path: '/Software-Architecture/docs/Software Architecture/architectural-patterns',
+                component: ComponentCreator('/Software-Architecture/docs/Software Architecture/architectural-patterns', '932'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/Software-Architecture/docs/category/tutorial---extras',
-                component: ComponentCreator('/Software-Architecture/docs/category/tutorial---extras', 'eb4'),
+                path: '/Software-Architecture/docs/Software Architecture/architecural-tools',
+                component: ComponentCreator('/Software-Architecture/docs/Software Architecture/architecural-tools', '1f0'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/Software-Architecture/docs/intro',
-                component: ComponentCreator('/Software-Architecture/docs/intro', '3b8'),
+                path: '/Software-Architecture/docs/Software Architecture/components-structures',
+                component: ComponentCreator('/Software-Architecture/docs/Software Architecture/components-structures', 'b3b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/Software-Architecture/docs/tutorial-basics/congratulations',
-                component: ComponentCreator('/Software-Architecture/docs/tutorial-basics/congratulations', '7ca'),
+                path: '/Software-Architecture/docs/Software Architecture/design-principles',
+                component: ComponentCreator('/Software-Architecture/docs/Software Architecture/design-principles', 'af2'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/Software-Architecture/docs/tutorial-basics/create-a-blog-post',
-                component: ComponentCreator('/Software-Architecture/docs/tutorial-basics/create-a-blog-post', 'bb7'),
+                path: '/Software-Architecture/docs/Software Architecture/documentation',
+                component: ComponentCreator('/Software-Architecture/docs/Software Architecture/documentation', '5d4'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/Software-Architecture/docs/tutorial-basics/create-a-document',
-                component: ComponentCreator('/Software-Architecture/docs/tutorial-basics/create-a-document', '3d8'),
+                path: '/Software-Architecture/docs/Software Architecture/future-trends-Innovations',
+                component: ComponentCreator('/Software-Architecture/docs/Software Architecture/future-trends-Innovations', '39e'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/Software-Architecture/docs/tutorial-basics/create-a-page',
-                component: ComponentCreator('/Software-Architecture/docs/tutorial-basics/create-a-page', 'c2b'),
+                path: '/Software-Architecture/docs/Software Architecture/intro',
+                component: ComponentCreator('/Software-Architecture/docs/Software Architecture/intro', '8d1'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/Software-Architecture/docs/tutorial-basics/deploy-your-site',
-                component: ComponentCreator('/Software-Architecture/docs/tutorial-basics/deploy-your-site', 'c07'),
+                path: '/Software-Architecture/docs/Software Architecture/quality-attributes',
+                component: ComponentCreator('/Software-Architecture/docs/Software Architecture/quality-attributes', '276'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/Software-Architecture/docs/tutorial-basics/markdown-features',
-                component: ComponentCreator('/Software-Architecture/docs/tutorial-basics/markdown-features', '319'),
+                path: '/Software-Architecture/docs/Software Architecture/resources',
+                component: ComponentCreator('/Software-Architecture/docs/Software Architecture/resources', '007'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/Software-Architecture/docs/tutorial-extras/manage-docs-versions',
-                component: ComponentCreator('/Software-Architecture/docs/tutorial-extras/manage-docs-versions', 'dfd'),
+                path: '/Software-Architecture/docs/Software Architecture/sdlc',
+                component: ComponentCreator('/Software-Architecture/docs/Software Architecture/sdlc', 'c95'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/Software-Architecture/docs/tutorial-extras/translate-your-site',
-                component: ComponentCreator('/Software-Architecture/docs/tutorial-extras/translate-your-site', '24d'),
+                path: '/Software-Architecture/docs/Software Architecture/stakeholder-managmenet',
+                component: ComponentCreator('/Software-Architecture/docs/Software Architecture/stakeholder-managmenet', 'c79'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }
