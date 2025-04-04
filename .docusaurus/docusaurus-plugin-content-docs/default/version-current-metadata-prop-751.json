@@ -100,7 +100,7 @@
     "Software Architecture/architectural-patterns": {
       "id": "Software Architecture/architectural-patterns",
       "title": "Architectural Patterns",
-      "description": "Overview of common patterns",
+      "description": "Architectural patterns are fundamental guidelines that shape the structure and behavior of software systems. This chapter explores various architectural patterns, each providing a framework for solving common design problems associated with building complex software systems. Understanding and implementing these patterns can greatly enhance the scalability, maintainability, and performance of software applications.",
       "sidebar": "tutorialSidebar"
     },
     "Software Architecture/architecural-tools": {
@@ -160,7 +160,7 @@
     "Software Architecture/stakeholder-managmenet": {
       "id": "Software Architecture/stakeholder-managmenet",
       "title": "Stakeholder Management and Requirements Engineering",
-      "description": "dentifying Stakeholders",
+      "description": "Stakeholder Management and Requirements Engineering are critical components of the software development process, essential for ensuring that the final product aligns with user needs and business goals. This chapter explores the intricate processes involved in identifying, engaging, and managing stakeholders, as well as effectively gathering and specifying requirements.",
       "sidebar": "tutorialSidebar"
     }
   }

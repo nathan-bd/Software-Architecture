@@ -1,7 +1,7 @@
 {
   "id": "Software Architecture/architectural-patterns",
   "title": "Architectural Patterns",
-  "description": "Overview of common patterns",
+  "description": "Architectural patterns are fundamental guidelines that shape the structure and behavior of software systems. This chapter explores various architectural patterns, each providing a framework for solving common design problems associated with building complex software systems. Understanding and implementing these patterns can greatly enhance the scalability, maintainability, and performance of software applications.",
   "source": "@site/docs/Software Architecture/architectural-patterns.md",
   "sourceDirName": "Software Architecture",
   "slug": "/Software Architecture/architectural-patterns",
